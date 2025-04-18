@@ -56,8 +56,9 @@ Features:
 
 ## Project Structure
 
+![structure](https://github.com/user-attachments/assets/4244771b-eeaf-41a4-b3b1-d05a3a562a28)
 
-![image](https://github.com/user-attachments/assets/164e803e-f9b3-4b99-8eba-66eb40bacc74)
+
 
 
 
