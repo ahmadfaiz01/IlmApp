@@ -96,7 +96,7 @@ IlmApp/
 
 ## Author
 
-Ahmed Faiz  
-Computer Science @ NUST  
-AI/ML | Android Dev | Python 
-LinkedIn: https://www.linkedin.com/in/ahmadfaiz01/
+Ahmad Faiz  
+- Computer Science @ NUST  
+- AI/ML | Android Dev | Python
+- LinkedIn: https://www.linkedin.com/in/ahmadfaiz01/
