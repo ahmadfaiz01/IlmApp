@@ -57,28 +57,7 @@ Features:
 ## Project Structure
 
 
-IlmApp/
-│
-├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/com/example/learningapp/
-│   │   │   │   ├── Dashboard.java
-│   │   │   │   ├── NotesActivity.java
-│   │   │   │   ├── LecturesActivity.java
-│   │   │   │   └── ...
-│   │   │   └── res/
-│   │   │       ├── layout/
-│   │   │       │   └── activity_dashboard.xml
-│   │   │       ├── drawable/
-│   │   │       │   ├── news.png
-│   │   │       │   ├── red_dot.xml
-│   │   │       │   └── ...
-│   │   │       └── values/
-│   │   │           └── colors.xml
-│   │   └── AndroidManifest.xml
-│   └── build.gradle
-└── README.md
+![image](https://github.com/user-attachments/assets/164e803e-f9b3-4b99-8eba-66eb40bacc74)
 
 
 
