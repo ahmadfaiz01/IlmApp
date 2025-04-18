@@ -85,8 +85,8 @@ IlmApp/
 ## How to Run
 
 1. Clone this repo:
-   git clone https://github.com/your-username/learning-app.git
-   cd learning-app
+   - git clone https://github.com/ahmadfaiz01/IlmApp.git
+   - cd learning-app
 
 2. Open in **Android Studio**.
 
